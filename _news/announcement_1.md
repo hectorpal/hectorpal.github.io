@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-TBD
+A simple inline announcement.
