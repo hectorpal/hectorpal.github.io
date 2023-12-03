@@ -1,3 +1,10 @@
+# added
+permissions:
+  contents: write
+  pull-requests: write
+  actions: write
+  workflows: write
+# original
 name: Sync from template
 on:
     # cronjob trigger
