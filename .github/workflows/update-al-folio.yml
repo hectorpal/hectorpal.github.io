@@ -4,7 +4,7 @@ permissions:
   contents: write
   pull-requests: write
   actions: write
-  workflows: write
+#  workflows: write
 # end added
 on:
     # cronjob trigger
