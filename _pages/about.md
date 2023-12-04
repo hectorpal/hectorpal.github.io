@@ -6,7 +6,7 @@ subtitle: Research Scientist, Artificial Intelligence
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: hector-palacios-2023.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Montreal, Quebec, Canada</p>
