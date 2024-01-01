@@ -1,171 +1,197 @@
 {
   "basics": {
-    "name": "Héctor Palacios",
-    "label": "AI Research Scientist",
-    "email": "hectorpal@gmail.com",
-    "phone": "438.496.LS66",
+    "name": "Albert Einstein",
+    "label": "Scientist",
+    "image": "",
+    "email": "albert@einstein.de",
+    "phone": "(912) 123-4567",
+    "url": "https://alshedivat.github.io/al-folio/",
+    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "city": "Montreal",
-      "region": "QC",
-      "countryCode": "CA"
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
     },
-    "summary": "Work in AI problems with structured outputs given data and/or description of business and context. Research in AI algorithms that use existing algorithms and components for simpler AI problems. Lead the development of robust AI aware of business contexts, engaging the right problem to solve.",
     "profiles": [
       {
-        "network": "LinkedIn",
-        "username": "hectorpal",
-        "url": "https://linkedin.com/in/hectorpal"
+        "network": "Twitter",
+        "username": "AlbertEinstein",
+        "url": "https://twitter.com/AlbertEinstein"
       }
     ]
   },
   "work": [
     {
-      "name": "ServiceNow Research",
-      "position": "Staff Research Scientist",
-      "startDate": "2021-03",
-      "endDate": "2023-08",
-      "summary": "Fundamental research in AI reasoning and NeuroSymbolic methods. Support applied research within ServiceNow.",
-      "highlights": []
-    },
-    {
-      "name": "Element AI",
-      "position": "Applied Research Scientist",
-      "startDate": "2018-09",
-      "endDate": "2021-02",
-      "summary": "Reasoning on top of a ML model. Achieved double-digit absolute improvement in hard cases of a vision-related task, without losing good performing cases of the pure ML-based model.",
-      "highlights": []
-    },
-    {
-      "name": "Nuance Communications",
-      "position": "Senior Research Scientist",
-      "startDate": "2016-11",
-      "endDate": "2018-09",
-      "summary": "Intent similarity by Siamese Network using dense data. Question answering on domain-specific content and no training data.",
-      "highlights": []
-    }
-  ],
-  "education": [
-    {
-      "institution": "Universitat Pompeu Fabra",
-      "area": "Computer Science",
-      "studyType": "PhD",
-      "startDate": "2003-10",
-      "endDate": "2009-12",
-      "location": "Barcelona, Spain"
-    },
-    {
-      "institution": "Universidad Simón Bolívar",
-      "area": "Computer Science",
-      "studyType": "BS & MS",
-      "location": "Caracas, Venezuela"
+      "name": "Institute for Advanced Study, Princeton University",
+      "position": "Professor of Theoretical Physics",
+      "url": "https://example.com",
+      "startDate": "1933-01-01",
+      "endDate": "1955-01-01",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": [
+        "Relativity"
+      ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Online Activism",
-      "position": "Coordinator",
-      "url": "",
-      "startDate": "2008",
-      "endDate": "2010",
-      "summary": "Stimulated, coordinated and enabled online activism for data crowdsourcing during natural disasters and elections.",
-      "highlights": []
+      "organization": "People's Climate March",
+      "position": "Lead Organizer",
+      "url": "https://example.com",
+      "startDate": "2014-04-01",
+      "endDate": "2015-07-01",
+      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+      "highlights": [
+        "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.","Men of the year 2014 by Time magazine"
+      ]
+    }],
+  "education": [
+    {
+      "institution": "University of Zurich, Zurich, Switzerland",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.uzh.ch/",
+      "area": "Software Development",
+      "studyType": "PhD",
+      "startDate": "1905-01-01",
+      "endDate": "1905-01-01",
+      "score": "10",
+      "courses": [
+        "Theory of Relativity"
+      ]
     }
   ],
   "awards": [
     {
-      "title": "Winner of the ALFRED challenge -- Embodied AI workshop @CVPR 2022",
-      "date": "2022",
-      "awarder": "CVPR",
-      "summary": "",
-      "url": "https://askforalfred.com/EAI22/"
+      "title": "Nobel Prize in Physics",
+      "date": "1921-11-01",
+      "awarder": "Royal Swedish Academy of Sciences",
+      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Machine Learning",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-location-dot"
     },
     {
-      "title": "IJCAI-JAIR Best Paper Prize 2012",
-      "date": "2012",
-      "awarder": "JAIR",
-      "summary": "Awarded for an outstanding paper at JAIR.",
-      "url": "https://www.jair.org/bestpaper.html"
+      "name": "Quantum Computing",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-tag"
     },
     {
-      "title": "Best Dissertation Awards",
-      "date": "2010",
-      "awarder": "ICAPS -- International Conference on Automated Planning and Scheduling",
-      "summary": "",
-      "url": "https://www.icaps-conference.org/icaps-awards/"
+      "name": "Quantum Information",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-envelope"
     },
     {
-      "title": "Artificial Intelligence Dissertation Award -- honourable mention",
-      "date": "2010",
-      "awarder": "ECCAI -- European Coordinating Committee for Artificial Intelligence",
-      "summary": "",
-      "url": "https://www.eurai.org/awards_and_grants/dissertation_award/2009"
+      "name": "Quantum Cryptography",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-hashtag"
     },
     {
-      "title": "Winner of the 5th International Planning Competition 2006, Conformant Track",
-      "date": "2006",
-      "awarder": "ICAPS",
-      "summary": "Awarded for the number of problems solved given a time limit.",
-      "url": "https://ipc06.icaps-conference.org/probabilistic/"
+      "name": "Quantum Communication",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-calendar"
+    },
+    {
+      "name": "Quantum Teleportation",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-clipboard-check"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Zur Elektrody/namik bewegter Körper",
+      "publisher": "Annalen der Physik",
+      "releaseDate": "1905-06-30",
+      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
+      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+    },
+    {
+      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
+      "publisher": "Annalen der Physik",
+      "releaseDate": "1905-03-18",
+      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
+      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+    },
+    {
+      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
+      "publisher": "Annalen der Physik",
+      "releaseDate": "1916-03-20",
+      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
+      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
     }
   ],
   "skills": [
     {
-      "name": "Programming",
-      "level": "Expert",
+      "name": "Physics",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Python",
-        "Java",
-        "C/C++",
-        "Functional languages",
-        "Linux",
-        "Computer clusters",
-        "Docker",
-        "Version control"
-      ]
-    },
-    {
-      "name": "Research Coordination and Leadership",
-      "level": "Expert",
-      "keywords": [
-          "Defining problems and scope",
-          "Designing evaluations",
-          "Harnessing team skills and interests",
-          "Aligning strategically with research and business objectives"
+        "Quantum Mechanics","Quantum Computing","Quantum Information","Quantum Cryptography","Quantum Communication","Quantum Teleportation"
       ]
     }
   ],
   "languages": [
     {
+      "language": "German",
+      "fluency": "Native speaker"
+      "icon":""
+    },
+    {
       "language": "English",
-      "fluency": "Professional"
-    },
-    {
-      "language": "Spanish",
-      "fluency": "Native"
-    },
-    {
-      "language": "French",
-      "fluency": "Elementary"
+      "fluency": "Fluent"
+      "icon":""
     }
   ],
   "interests": [
     {
-      "name": "Fundamental Research Problems",
+      "name": "Physics",
+      "icon": "fa-solid fa-tag",
       "keywords": [
-          "NeuroSymbolic approaches",
-          "Task-centric dialogue",
-          "Symbolic Planning",
-          "Preference fulfillment and optimization",
-          "Symbolic reasoning"
+        "Quantum Mechanics","Quantum Computing","Quantum Information","Quantum Cryptography","Quantum Communication","Quantum Teleportation"
       ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Professor John Doe",
+      "icon": "fa-solid fa-laptop",
+      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
-        "name": "Properties of Methods",
-        "keywords": [
-            "Robustness",
-            "Interpretability",
-            "Systematic generalization"
-        ]
+      "name": "Professor John Doe",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Quantum Computing",
+      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+      "highlights": [
+        "Quantum Teleportation",
+        "Quantum Cryptography"
+      ],
+      "startDate": "2018-01-01",
+      "endDate": "2018-01-01",
+      "url": "https://example.com"
     }
   ]
 }
